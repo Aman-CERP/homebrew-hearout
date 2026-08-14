@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class Hearout < Formula
-  desc "Hang-proof runner for coding-agent CLIs, plus a small review panel"
+  desc "Hang-proof leash for coding-agent CLIs; runs a brief, not only a patch"
   homepage "https://github.com/Aman-CERP/hearout"
   url "https://github.com/Aman-CERP/hearout/archive/refs/tags/v0.1.1.tar.gz"
   sha256 "3905314930c4af57bcfe10bfe5e7f32718a231cba584776ad10c771b4edef818"
